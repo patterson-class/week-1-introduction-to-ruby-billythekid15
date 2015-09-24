@@ -5,6 +5,7 @@ Learn the fundamentals of programming in the Ruby programming language by comple
 
 Topics Covered:
 - Primitive Data Types
+- Variables
 - Ruby Operators
 - Iteration and Looping
 - Git and Github
